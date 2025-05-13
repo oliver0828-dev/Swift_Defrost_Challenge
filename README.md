@@ -1,4 +1,4 @@
-# 🧊 Swift_Defrost_Challenge
+# 🧊 Swift Defrost Challenge
 
 A 7-day challenge to defrost and refresh your Swift programming skills after a break.
 
